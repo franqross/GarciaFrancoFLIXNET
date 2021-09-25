@@ -1,0 +1,2 @@
+# IonicDuoc
+Proyecto APP PELICULAS
